@@ -7,7 +7,6 @@ class Vehicle
     @wheel_number = number
   end
   
-  
 end
 
 describe "Vehicle" do 
